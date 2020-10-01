@@ -1,5 +1,8 @@
 # C_plus_plus_Algos
 
+# What's an Algo?
+Basically we define algorithms as the step by step descriptive process of running a code
+
 * [Bubble Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/BubbleSort.cpp)
 * [Insertion Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/InsertionSort.cpp)
 * [Selection Sort](https://github.com/Rahul-Vijay/C_plus_plus_Algos/blob/master/algos/SelectionSort.cpp)
